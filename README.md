@@ -1,6 +1,8 @@
 # dl4j_WenBenShiBie
 正尝试用deeplearning4j做一个文本情感识别的完整项目。
 
+在fc文件目录中为分词所需
+
 pos.txt为原正面文本语料集
 neg.txt为原负面文本语料集
 
